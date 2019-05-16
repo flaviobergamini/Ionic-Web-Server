@@ -1,8 +1,7 @@
 {
   "name": "Web_Server",
-  "app_id": "",
-  "type": "ionic-angular",
   "integrations": {
     "cordova": {}
-  }
+  },
+  "type": "ionic-angular"
 }
